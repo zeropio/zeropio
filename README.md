@@ -32,6 +32,8 @@ Hi, I'm Emilio San, a pretty newbie developper. I am interesting in some fields,
 <code><img height="20" src="https://user-images.githubusercontent.com/78456264/120791377-706b8d00-c534-11eb-9e1e-bd6b3a37acff.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/78456264/120791456-8711e400-c534-11eb-87ea-46e21bd6fb47.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/78456264/120791551-a4df4900-c534-11eb-9bae-45ba098f41d9.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/78456264/120791647-c0e2ea80-c534-11eb-866b-055e86311fad.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/78456264/120791725-d9530500-c534-11eb-9d5c-454a7ab84580.png"></code>
 
 <br />
 <br />
