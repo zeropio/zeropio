@@ -15,9 +15,8 @@ Hi, I'm Emilio San, a pretty newbie developper. I am interesting in some fields,
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
-- 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
+- 💬 Ask me about anything, I am happy to learn;
+- 📫 How to reach me: [@zeropio_](https://twitter.com/zeropio_);
 
 **Languages and Tools:**  
 
@@ -36,7 +35,8 @@ Hi, I'm Emilio San, a pretty newbie developper. I am interesting in some fields,
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zeropio" alt="zeropio" />
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
