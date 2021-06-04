@@ -13,7 +13,7 @@
 Hi, I'm Emilio San, a pretty newbie developper. I am interesting in some fields, as the cybersecurity. I am always learning, I have a big project to create my own operative system based on Linux. I am studying right now but also learning all the things I can from the whole internet, thanks to the open code comunnities.
 
 
-  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/78456264/120790787-ac522280-c533-11eb-9d69-5e4f49056a72.png" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to learn;
 - 📫 How to reach me: [@zeropio_](https://twitter.com/zeropio_);
