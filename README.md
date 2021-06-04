@@ -33,10 +33,6 @@ Hi, I'm Emilio San, a pretty newbie developper. I am interesting in some fields,
 <br />
 <br />
 
+
 📈 My GitHub Stats
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zeropio" alt="zeropio" />
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
