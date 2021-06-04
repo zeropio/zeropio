@@ -35,4 +35,4 @@ Hi, I'm Emilio San, a pretty newbie developper. I am interesting in some fields,
 
 
 📈 My GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zeropio" alt="zeropio" />
+<p> <img src="https://github-readme-stats.vercel.app/api?username=zeropio" alt="zeropio" />
