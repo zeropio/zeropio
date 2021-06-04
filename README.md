@@ -7,6 +7,8 @@
 </a>
 
 <br />
+<br />
+<br />
 
 Hi, I'm Emilio San, a pretty newbie developper. I am interesting in some fields, as the cybersecurity. I am always learning, I have a big project to create my own operative system based on Linux. I am studying right now but also learning all the things I can from the whole internet, thanks to the open code comunnities.
 
