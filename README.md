@@ -13,7 +13,7 @@
 Hi, I'm Emilio San, a pretty newbie developper. I am interesting in some fields, as the cybersecurity. I am always learning, I have a big project to create my own operative system based on Linux. I am studying right now but also learning all the things I can from the whole internet, thanks to the open code comunnities.
 
 
-  <img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F4171367-Coding-Freak&psig=AOvVaw2o62st79RC-uHrwLyNBe-n&ust=1622889592737000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNj_04Pl_fACFQAAAAAdAAAAABAD" width="500" height="320" />
+  <img align="right" alt="GIF" src="![image](https://user-images.githubusercontent.com/78456264/120789566-136ed780-c532-11eb-9483-2a7da062f094.png)" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
