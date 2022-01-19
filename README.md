@@ -10,9 +10,6 @@
 <br />
 <br />
 
-Hi, I'm Emilio San, a pretty newbie developper. I am interesting in some fields, as the cybersecurity. I am always learning, I have a big project to create my own operative system based on Linux. I am studying right now but also learning all the things I can from the whole internet, thanks to the open code comunnities.
-
-
   <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400" height="256" />
   
 - 💬 Ask me about anything, I am happy to learn;
