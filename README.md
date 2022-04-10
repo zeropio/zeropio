@@ -1,5 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<img align="right" alt="GIF" src="./img/tvhead.gif" width="400" height="350" /
+<img align="right" alt="GIF" src="./img/tvhead.gif" width="400" height="350" />
 <div id="badges">
       <a href="https://www.linkedin.com/in/emilio-s%C3%A1nchez-garc%C3%ADa/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -26,7 +26,7 @@
 <hr />
 <br>
 
-<b>👨‍💻 Languages and Tools:</b>
+<h2>👨‍💻 Languages and Tools:</h2>
 
 <code><img height="45" src="./img/scripting.png" /></code>
 <code><img height="40" src="./img/metasploit.png" /></code>
