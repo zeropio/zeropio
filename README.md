@@ -1,45 +1,38 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.com/users/398195882216128532/">
-        <img
-          align="left"
-          alt="Zeropio's Discord"
-          width="25px"
-          src="./img/discord.png"
-        />
+<img align="right" alt="GIF" src="./img/tvhead.gif" width="400" height="350" /
+<div id="badges">
+      <a href="https://www.linkedin.com/in/emilio-s%C3%A1nchez-garc%C3%ADa/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+          alt="LinkedIn Badge" />
       </a>
-      &nbsp;&nbsp;
-      <a href="mailto: zeropio@pm.me">
-        <img
-          align="left"
-          alt="Zeropio's Email"
-          width="30px"
-          src="./img/protonmail.png"
-        />
+      <a href="https://github.com/zeropio">
+        <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white"
+          alt="Github Badge" />
       </a>
+      <a href="https://twitter.com/0xZeropio">
+        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"
+          alt="Twitter Badge" />
+      </a>
+    </div>
 <br />
 <br />
 <br />
-<img
-        align="right"
-        alt="GIF"
-        src="./img/tvhead.gif"
-        width="400"
-        height="256"
-      />
   
-- 💬 Ask me about anything, I am happy to learn;
-- 📫 How to reach me: zeropio@pm.me;
+- 👉 Junior pentester, CTF enjoyer, future secadmin(?);<br />
+- 💬 Ask me about anything, I am happy to learn;<br />
+- 📫 How to reach me: **><a href="mailto: zeropio@pm.me">zeropio@pm.me</a>**;
 
-<br />
-<br />
+<br>
+<hr />
+<br>
 
 <b>👨‍💻 Languages and Tools:</b>
 
-<code><img height="20" src="./img/metasploit.png" /></code>
-<code> <img height="20" src="./img/python.png" /></code>
-<code><img height="20" src="./img/tux.png" /></code>
-<code><img height="20" src="./img/scripting.png" /></code>
-<code><img height="20" src="./img/docker.png" /></code>
-<code><img height="20" src="./img/databases.png" /></code>
-<code><img height="20" src="./img/node.png" /></code>
+<code><img height="45" src="./img/scripting.png" /></code>
+<code><img height="40" src="./img/metasploit.png" /></code>
+<code><img height="35" src="./img/python.png" /></code>
+<code><img height="40" src="./img/tux.png" /></code>
+<code><img height="40" src="./img/docker.png" /></code>
+<code><img height="35" src="./img/burpsuite.png" /></code>
+<code><img height="40" src="./img/node.png" /></code>
 
