@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <img align="right" alt="GIF" src="./img/tvhead.gif" width="400" height="350" />
 <div id="badges">
       <a href="https://www.linkedin.com/in/emilio-s%C3%A1nchez-garc%C3%ADa/">
@@ -20,7 +20,7 @@
   
 - 👉 Junior pentester, CTF enjoyer, future secadmin(?);<br />
 - 💬 Ask me about anything, I am happy to learn;<br />
-- 📫 How to reach me: **><a href="mailto: zeropio@pm.me">zeropio@pm.me</a>**;
+- 📫 How to reach me: **<a href="mailto: zeropio@pm.me">zeropio@pm.me</a>**;
 
 <br>
 <hr />
