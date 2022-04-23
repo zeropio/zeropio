@@ -10,7 +10,7 @@
           alt="Github Badge" />
       </a>
       <a href="https://paypal.me/emiliosang">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=paypal&logoColor=white"
+        <img src="https://img.shields.io/badge/PayPal-blue?style=for-the-badge&logo=paypal&logoColor=white"
           alt="PayPal Badge" />
       </a>
     </div>
