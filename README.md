@@ -9,9 +9,9 @@
         <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white"
           alt="Github Badge" />
       </a>
-      <a href="https://twitter.com/0xZeropio">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"
-          alt="Twitter Badge" />
+      <a href="https://paypal.me/emiliosang">
+        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=paypal&logoColor=white"
+          alt="PayPal Badge" />
       </a>
     </div>
 <br />
