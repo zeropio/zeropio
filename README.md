@@ -36,3 +36,7 @@
 <code><img height="35" src="./img/burpsuite.png" /></code>
 <code><img height="40" src="./img/node.png" /></code>
 
+<h2>My stats</h2>
+[![Zeropio's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeropio&theme=chartreuse-dark)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeropio&layout=compact&theme=chartreuse-dark)]()
+
