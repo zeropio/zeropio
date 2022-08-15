@@ -23,7 +23,7 @@
 - 📫 How to reach me: **<a href="mailto: zeropio@pm.me">zeropio@pm.me</a>**;
 
 <br>
-<hr />z
+<hr />
 <br>
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=zeropio&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
