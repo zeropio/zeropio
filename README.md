@@ -1,5 +1,5 @@
 <h1> Hey there</h1>
-<img align="right" alt="GIF" src="./img/icon.png" width="400" height="400" />
+<img align="right" alt="GIF" src="./img/icon.png" width="360" height="360" />
 <div id="badges" align="center">
       <a href="https://www.linkedin.com/in/emilio-s%C3%A1nchez-garc%C3%ADa/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
