@@ -32,5 +32,5 @@
 
 <h2>👨‍💻 Languages and Tools:</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeropio&show_icons=true&theme=radical)
+![Zeropio's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeropio&show_icons=true&theme=radical)
 
