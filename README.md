@@ -32,11 +32,5 @@
 
 <h2>👨‍💻 Languages and Tools:</h2>
 
-<code><img height="45" src="./img/scripting.png" /></code>
-<code><img height="40" src="./img/metasploit.png" /></code>
-<code><img height="35" src="./img/python.png" /></code>
-<code><img height="40" src="./img/tux.png" /></code>
-<code><img height="40" src="./img/docker.png" /></code>
-<code><img height="35" src="./img/burpsuite.png" /></code>
-<code><img height="40" src="./img/node.png" /></code>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeropio&show_icons=true&theme=radical)
 
