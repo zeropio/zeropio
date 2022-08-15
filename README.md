@@ -23,7 +23,7 @@
 - 📫 How to reach me: **<a href="mailto: zeropio@pm.me">zeropio@pm.me</a>**;
 
 <br>
-<hr />
+<hr />z
 <br>
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=zeropio&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
@@ -32,5 +32,5 @@
 
 <h2>👨‍💻 Languages and Tools:</h2>
 
-![Zeropio's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeropio&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeropio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
