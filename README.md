@@ -1,4 +1,4 @@
-<h1> Hey there</h1>
+<h1> Hey 👋</h1>
 <img align="right" alt="GIF" src="./img/icon.png" width="260" height="260" />
 <div id="badges" align="center">
       <a href="https://www.linkedin.com/in/emilio-s%C3%A1nchez-garc%C3%ADa/">
