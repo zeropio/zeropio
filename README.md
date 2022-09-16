@@ -18,7 +18,7 @@
 <br />
 <br />
   
-- 👉 Junior pentester, bug hunter;<br />
+- 👉 Junior pentester, malware analyst;<br />
 - 💬 Ask me about anything, I am happy to learn;<br />
 - 📫 How to reach me: **<a href="mailto: zeropio@pm.me">zeropio@pm.me</a>**;
 
