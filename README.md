@@ -19,17 +19,14 @@
 <br />
 <br />
   
-- 👉 Junior pentester, malware analyst;<br />
-- 💬 Ask me about anything, I am happy to learn;<br />
+- 👉 CyberSec Student;<br />
+- 🪲 Tool passionate;<br />
 - 📫 How to reach me: **<a href="mailto: zeropio@pm.me">zeropio@pm.me</a>**;
-
-<br>
-
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=zeropio&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <br>
 
 <h2>👨‍💻 Languages and Tools:</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeropio&layout=compacto&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeropio&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
 
