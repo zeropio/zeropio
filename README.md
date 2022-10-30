@@ -26,7 +26,7 @@
 <br>
 
 <br>
-
+<br />
 <hr>
 
 <h2>👨‍💻 Languages and Tools:</h2>
