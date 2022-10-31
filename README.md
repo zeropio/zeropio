@@ -10,7 +10,7 @@
           alt="Github Badge" />
       </a>
       <a href="mailto: zeropio@pm.me">
-        <img src="https://img.shields.io/badge/Protonmail?style=for-the-badge&logo=paypal&logoColor=white"
+        <img src="https://img.shields.io/badge/Protonmail?style=for-the-badge&logo=protonmail&logoColor=white"
           alt="PayPal Badge" />
       </a>
     </div>
