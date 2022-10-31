@@ -9,8 +9,8 @@
         <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white"
           alt="Github Badge" />
       </a>
-      <a href="https://paypal.me/emiliosang">
-        <img src="https://img.shields.io/badge/PayPal-blue?style=for-the-badge&logo=paypal&logoColor=white"
+      <a href="mailto: zeropio@pm.me">
+        <img src="https://img.shields.io/badge/Protonmail?style=for-the-badge&logo=paypal&logoColor=white"
           alt="PayPal Badge" />
       </a>
     </div>
@@ -20,13 +20,13 @@
   
 - 👉 CyberSec Student;<br />
 - 🪲 Tool passionate;<br />
-- 📫 How to reach me: **<a href="mailto: zeropio@pm.me">zeropio@pm.me</a>**;
+- 📫 How to reach me: 
+
+<br>
 
 <p align="center">
     <img alt="My discord account: zeropio#2900" src="https://discord.c99.nl/widget/theme-1/398195882216128532.png">
 </p>
-
-<br>
 
 <br>
 <br />
