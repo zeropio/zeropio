@@ -1,6 +1,5 @@
 ![](/img/hello.gif)
 <hr>
-<img align="right" alt="GIF" src="./img/icon.png" width="260" height="260" />
 <div id="badges" align="center">
       <a href="https://www.linkedin.com/in/emilio-s%C3%A1nchez-garc%C3%ADa/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -22,6 +21,10 @@
 - 👉 CyberSec Student;<br />
 - 🪲 Tool passionate;<br />
 - 📫 How to reach me: **<a href="mailto: zeropio@pm.me">zeropio@pm.me</a>**;
+
+<p align="center">
+    <img alt="My discord account: zeropio#2900" src="https://discord.c99.nl/widget/theme-1/398195882216128532.png">
+</p>
 
 <br>
 
