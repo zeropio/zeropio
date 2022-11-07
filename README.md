@@ -32,6 +32,8 @@
  
 <p align="left">
 - 👉 CyberSec Student;<br />
-- 🪲 Tool and malware passionate;<br />
+- 🪲 Malware passionate;<br />
+- ⚙️ Tool dev;<br />
+- 📂 Open Source enjoyer;<br />
 - 🐧 Average Linux user;
 </p>
