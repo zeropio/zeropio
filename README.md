@@ -26,9 +26,7 @@
 
 <br>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeropio&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
- 
- <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeropio&theme=transparent" align="right" width="50%" />
+ <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeropio&theme=transparent" align="right" width="25%" />
   
 - 👉 CyberSec Student;<br />
 - 🪲 Tool and malware passionate;<br />
