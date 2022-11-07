@@ -34,8 +34,8 @@
 
 <h2>👨‍💻 Languages and Tools:</h2>
 
-<p align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeropio&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
 
 
