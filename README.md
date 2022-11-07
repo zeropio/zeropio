@@ -30,10 +30,10 @@
 
  <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeropio&theme=transparent&layout=compact" align="right" width="35%" />
  
-<p align="left">
+<p align="left"><b>
 - 👉 CyberSec Student;<br />
 - 🪲 Malware passionate;<br />
 - ⚙️ Tool dev;<br />
 - 📂 Open Source enjoyer;<br />
 - 🐧 Average Linux user;
-</p>
+      </b></p>
