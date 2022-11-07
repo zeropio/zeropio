@@ -26,7 +26,7 @@
 
 <br>
  
- <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeropio&theme=transparent" align="right" width="25%" />
+ <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeropio&theme=transparent" align="right" width="35%" />
   
 - 👉 CyberSec Student;<br />
 - 🪲 Tool and malware passionate;<br />
