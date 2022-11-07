@@ -19,25 +19,15 @@
 <br />
 <br />
 <br />
-  
-- 👉 CyberSec Student;<br />
-- 🪲 Tool passionate;<br />
-- 📫 How to reach me: 
-
-<br>
 
 <p align="center">
     <img alt="My discord account: zeropio#2900" src="https://discord.c99.nl/widget/theme-1/398195882216128532.png">
 </p>
 
 <br>
-
-<hr>
-
-<h2>👨‍💻 Languages and Tools:</h2>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeropio&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeropio&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+  
+- 👉 CyberSec Student;<br />
+- 🪲 Tool and malware passionate;<br />
+- 🐧 Average Linux user;
