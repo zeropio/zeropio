@@ -5,10 +5,12 @@
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
           alt="LinkedIn Badge" />
       </a>
+      &nbsp;&nbsp;
       <a href="https://github.com/zeropio">
         <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white"
           alt="Github Badge" />
       </a>
+      &nbsp;&nbsp;
       <a href="mailto: zeropio@pm.me">
         <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"
           alt="Protonmail Badge" />
