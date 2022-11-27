@@ -6,9 +6,9 @@
           alt="LinkedIn Badge" />
       </a>
       &nbsp;&nbsp;&nbsp;
-      <a href="https://github.com/zeropio">
-        <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white"
-          alt="Github Badge" />
+      <a href="https://app.hackthebox.com/profile/380109">
+        <img src="https://img.shields.io/badge/HackTheBox-green?style=for-the-badge&logo=hackthebox&logoColor=black"
+          alt="HackTheBox Badge" />
       </a>
       &nbsp;&nbsp;&nbsp;
       <a href="mailto: zeropio@pm.me">
