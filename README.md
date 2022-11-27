@@ -1,12 +1,12 @@
 ![](/img/hi.gif)
 <hr>
 <div id="badges" align="center">
-      <a href="https://www.linkedin.com/in/emilio-s%C3%A1nchez-garc%C3%ADa/">
+      <a href="https://www.linkedin.com/in/emilio-s%C3%A1nchez-garc%C3%ADa/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
           alt="LinkedIn Badge" />
       </a>
       &nbsp;&nbsp;&nbsp;
-      <a href="https://app.hackthebox.com/profile/380109">
+      <a href="https://app.hackthebox.com/profile/380109" target="_blank">
         <img src="https://img.shields.io/badge/HackTheBox-green?style=for-the-badge&logo=hackthebox&logoColor=black"
           alt="HackTheBox Badge" />
       </a>
