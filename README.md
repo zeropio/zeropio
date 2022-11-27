@@ -1,4 +1,4 @@
-![](/img/hello.gif)
+![](/img/hi.gif)
 <hr>
 <div id="badges" align="center">
       <a href="https://www.linkedin.com/in/emilio-s%C3%A1nchez-garc%C3%ADa/">
