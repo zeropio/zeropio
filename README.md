@@ -26,19 +26,9 @@
 
 <br>
 
-<p align="center">
-<img align="center" src="/img/tux.png" height="40" width="40" />
-<img align="center" src="/img/python.png" height="40" width="40" />
-<img align="center" src="/img/golang.png" height="40" width="40" />
-<img align="center" src="/img/rust.png" height="40" width="40" />
-<img align="center" src="/img/python.png" height="40" width="40" />
-<img align="center" src="/img/burpsuite.png" height="40" width="40" />
-<img align="center" src="/img/docker.png" height="40" width="40" />
-</p>
+<hr>
 
 <br>
-
-<hr>
 
  <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeropio&theme=transparent&layout=compact&hide=vim,html,scss,javascript,ruby" align="right" width="45%" />
  
@@ -56,4 +46,19 @@
 <br>
 <br>
 
+
 ![](/img/cyberpunk.gif)
+
+<p align="right">
+
+<p align="center">
+<img align="center" src="/img/tux.png" height="40" width="40" /> &nbsp;
+<img align="center" src="/img/python.png" height="40" width="40" /> &nbsp; 
+<img align="center" src="/img/golang.png" height="40" width="40" /> &nbsp;
+<img align="center" src="/img/rust.png" height="40" width="50" /> &nbsp;
+<img align="center" src="/img/python.png" height="40" width="40" /> &nbsp;
+<img align="center" src="/img/burpsuite.png" height="40" width="40" /> &nbsp;
+<img align="center" src="/img/docker.png" height="50" width="50" />
+</p>
+
+</p>
