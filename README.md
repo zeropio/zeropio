@@ -26,6 +26,18 @@
 
 <br>
 
+<p align="center">
+<img align="center" src="/img/tux.png" height="30" width="40" />
+<img align="center" src="/img/python.png" height="30" width="40" />
+<img align="center" src="/img/golang.png" height="30" width="40" />
+<img align="center" src="/img/rust.png" height="30" width="40" />
+<img align="center" src="/img/python.png" height="30" width="40" />
+<img align="center" src="/img/burpsuite.png" height="30" width="40" />
+<img align="center" src="/img/docker.png" height="30" width="40" />
+</p>
+
+<br>
+
 <hr>
 
  <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeropio&theme=transparent&layout=compact&hide=vim,html,scss,javascript,ruby" align="right" width="45%" />
@@ -38,3 +50,9 @@
 - 📂 Open Source enjoyer;<br />
 - 🐧 Average Linux user;
       </b></p>
+
+<br>
+<br>
+<br>
+<br>
+![](/img/cyberpunk.gif)
