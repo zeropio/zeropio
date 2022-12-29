@@ -1,5 +1,7 @@
-![](/img/hi.gif)
+![](/img/hello.gif)
+<br>
 <hr>
+<br>
 <div id="badges" align="center">
       <a href="https://www.linkedin.com/in/emilio-s%C3%A1nchez-garc%C3%ADa/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -25,40 +27,24 @@
 </p>
 
 <br>
-
 <hr>
-
 <br>
 
- <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeropio&theme=transparent&layout=compact&hide=vim,html,scss,javascript,ruby" align="right" width="45%" />
- 
- <br>
-<p align="left"><b>
-- 👉 CyberSec Student;<br />
-- 🪲 Malware passionate;<br />
-- ⚙️ Tool dev;<br />
-- 📂 Open Source enjoyer;<br />
-- 🐧 Average Linux user;
-      </b></p>
+<table border="0" align="right" width="100%">
+ <tr>
+    <td><img align="left" src="/img/cyberpunk.gif"></td>
+    <td>
+      <b>
+        - 👉 CyberSec Student;<br />
+        - 🪲 Malware passionate;<br />
+        - ⚙️ Tool dev;<br />
+        - 📂 Open Source enjoyer;<br />
+        - 🐧 Average Linux user;
+      </b>
+    </td>
+ </tr>
+</table>
 
 <br>
+<hr>
 <br>
-<br>
-<br>
-
-
-<p align="center">
-<img align="center" src="/img/tux.png" height="40" width="40" /> &nbsp;
-<img align="center" src="/img/python.png" height="40" width="40" /> &nbsp; 
-<img align="center" src="/img/golang.png" height="40" width="40" /> &nbsp;
-<img align="center" src="/img/rust.png" height="40" width="55" /> &nbsp;
-<img align="center" src="/img/python.png" height="40" width="40" /> &nbsp;
-<img align="center" src="/img/burpsuite.png" height="40" width="40" /> &nbsp;
-<img align="center" src="/img/docker.png" height="50" width="50" />
-</p>
-
-<p align="center">
-
-![](/img/cyberpunk.gif)
-
-</p>
