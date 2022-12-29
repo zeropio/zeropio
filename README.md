@@ -37,7 +37,7 @@
 
 <table border="0" align="center" width="100%">
  <tr>
-    <td><img align="left" src="/img/cyberpunk.gif"></td>
+    <td><img align="left" src="/img/cyberpunk_w.gif"></td>
     <td>
       <b>
         - 👉 CyberSec Student;<br />
