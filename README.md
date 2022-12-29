@@ -46,20 +46,16 @@
 <br>
 <br>
 
-<p align="left">
 
-![](/img/cyberpunk.gif)
-
-</p>
-
-<p align="right">
+<p align="center">
 <img align="center" src="/img/tux.png" height="40" width="40" /> &nbsp;
 <img align="center" src="/img/python.png" height="40" width="40" /> &nbsp; 
 <img align="center" src="/img/golang.png" height="40" width="40" /> &nbsp;
-<img align="center" src="/img/rust.png" height="40" width="50" /> &nbsp;
+<img align="center" src="/img/rust.png" height="40" width="55" /> &nbsp;
 <img align="center" src="/img/python.png" height="40" width="40" /> &nbsp;
 <img align="center" src="/img/burpsuite.png" height="40" width="40" /> &nbsp;
 <img align="center" src="/img/docker.png" height="50" width="50" />
 </p>
 
-</p>
+![](/img/cyberpunk.gif)
+
