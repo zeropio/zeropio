@@ -50,12 +50,12 @@
 ![](/img/cyberpunk.gif)
 
 <p align="right">
-<img align="center" src="/img/tux.png" height="40" width="40" /> \n
-<img align="center" src="/img/python.png" height="40" width="40" /> \n 
-<img align="center" src="/img/golang.png" height="40" width="40" /> \n
-<img align="center" src="/img/rust.png" height="40" width="50" /> \n
-<img align="center" src="/img/python.png" height="40" width="40" /> \n
-<img align="center" src="/img/burpsuite.png" height="40" width="40" /> \n
+<img align="center" src="/img/tux.png" height="40" width="40" /> &nbsp;
+<img align="center" src="/img/python.png" height="40" width="40" /> &nbsp; 
+<img align="center" src="/img/golang.png" height="40" width="40" /> &nbsp;
+<img align="center" src="/img/rust.png" height="40" width="50" /> &nbsp;
+<img align="center" src="/img/python.png" height="40" width="40" /> &nbsp;
+<img align="center" src="/img/burpsuite.png" height="40" width="40" /> &nbsp;
 <img align="center" src="/img/docker.png" height="50" width="50" />
 </p>
 
