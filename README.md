@@ -35,15 +35,16 @@
 <hr>
 <br>
 
-<table border="0" align="center" width="100%">
+<table border="0" align="center" width="80%">
  <tr>
     <td><img align="left" src="/img/cyberpunk_w.gif"></td>
     <td>
       <b>
-        - 👉 CyberSec;<br />
-        - 🪲 Malware;<br />
+        - 👉 CyberSec Student;<br />
+        - 🪲 Malware passionate;<br />
         - ⚙️ Tool dev;<br />
-        - 🐧 Linux user;
+        - 📂 Open Source enjoyer;<br />
+        - 🐧 Average Linux user;
       </b>
     </td>
  </tr>
