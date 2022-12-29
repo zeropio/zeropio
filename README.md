@@ -46,8 +46,11 @@
 <br>
 <br>
 
+<p align="left">
 
 ![](/img/cyberpunk.gif)
+
+</p>
 
 <p align="right">
 <img align="center" src="/img/tux.png" height="40" width="40" /> &nbsp;
