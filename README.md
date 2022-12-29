@@ -28,7 +28,7 @@
 
 <hr>
 
- <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeropio&theme=transparent&layout=compact&hide=vim,html,scss,javascript" align="right" width="45%" />
+ <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeropio&theme=transparent&layout=compact&hide=vim,html,scss,javascript,ruby" align="right" width="45%" />
  
  <br>
 <p align="left"><b>
