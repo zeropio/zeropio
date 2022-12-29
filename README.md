@@ -55,7 +55,9 @@
 <img align="center" src="/img/python.png" height="40" width="40" /> &nbsp;
 <img align="center" src="/img/burpsuite.png" height="40" width="40" /> &nbsp;
 <img align="center" src="/img/docker.png" height="50" width="50" />
+</p>
 
+<p align="center">
 
 ![](/img/cyberpunk.gif)
 
