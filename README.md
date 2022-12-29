@@ -27,13 +27,13 @@
 <br>
 
 <p align="center">
-<img align="center" src="/img/tux.png" height="30" width="40" />
-<img align="center" src="/img/python.png" height="30" width="40" />
-<img align="center" src="/img/golang.png" height="30" width="40" />
-<img align="center" src="/img/rust.png" height="30" width="40" />
-<img align="center" src="/img/python.png" height="30" width="40" />
-<img align="center" src="/img/burpsuite.png" height="30" width="40" />
-<img align="center" src="/img/docker.png" height="30" width="40" />
+<img align="center" src="/img/tux.png" height="40" width="40" />
+<img align="center" src="/img/python.png" height="40" width="40" />
+<img align="center" src="/img/golang.png" height="40" width="40" />
+<img align="center" src="/img/rust.png" height="40" width="40" />
+<img align="center" src="/img/python.png" height="40" width="40" />
+<img align="center" src="/img/burpsuite.png" height="40" width="40" />
+<img align="center" src="/img/docker.png" height="40" width="40" />
 </p>
 
 <br>
@@ -55,4 +55,5 @@
 <br>
 <br>
 <br>
+
 ![](/img/cyberpunk.gif)
