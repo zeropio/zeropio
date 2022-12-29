@@ -30,7 +30,7 @@
 <hr>
 <br>
 
-<table border="0" align="right" width="100%">
+<table border="0" align="center" width="100%">
  <tr>
     <td><img align="left" src="/img/cyberpunk.gif"></td>
     <td>
