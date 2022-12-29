@@ -40,11 +40,10 @@
     <td><img align="left" src="/img/cyberpunk_w.gif"></td>
     <td>
       <b>
-        - 👉 CyberSec Student;<br />
-        - 🪲 Malware passionate;<br />
+        - 👉 CyberSec;<br />
+        - 🪲 Malware;<br />
         - ⚙️ Tool dev;<br />
-        - 📂 Open Source enjoyer;<br />
-        - 🐧 Average Linux user;
+        - 🐧 Linux user;
       </b>
     </td>
  </tr>
