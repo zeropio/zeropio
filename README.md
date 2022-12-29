@@ -35,7 +35,7 @@
 <hr>
 <br>
 
-<table border="0" align="center" width="60%">
+<table border="0" align="center" width="45%">
  <tr>
     <td><img align="left" src="/img/cyberpunk_w.gif"></td>
     <td>
