@@ -45,6 +45,3 @@
  </tr>
 </table>
 
-<br>
-<hr>
-<br>
