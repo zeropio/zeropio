@@ -24,16 +24,17 @@
 <br />
 <br />
 
+<div id="badges" align="center">
 ![](/img/hacker.gif)
-
+</div>
 <br>
 <br>
 
->> CyberSec Student;<br />
->> Maldev wannabe;<br />
->> Security Research wannabe;<br />
->> Open Source enjoyer;<br />
->> Average Linux user;
+❯ CyberSec Student;<br />
+❯ Maldev wannabe;<br />
+❯ Security Research wannabe;<br />
+❯ Open Source enjoyer;<br />
+❯ Average Linux user;
 
 <br>
 <br>
