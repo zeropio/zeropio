@@ -25,7 +25,7 @@
 <br />
 
 <div id="badges" align="center">
-![](/img/hacker.gif)
+<img src="/img/hacker.gif"/>
 </div>
 <br>
 <br>
