@@ -29,11 +29,3 @@
 </div>
 <br>
 <br>
-
-<p align="center">
-    <img alt="My discord account: zeropio#2900" src="https://discord.c99.nl/widget/theme-1/398195882216128532.png">
-</p>
-
-<br>
-
-
