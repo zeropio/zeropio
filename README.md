@@ -1,6 +1,3 @@
-![](/img/hello.gif)
-<br>
-<hr>
 <br>
 <div id="badges" align="center">
       <a href="https://zeropio.github.io/">
@@ -27,26 +24,24 @@
 <br />
 <br />
 
+![](/img/hacker.gif)
+
+<br>
+<br>
+
+>> CyberSec Student;<br />
+>> Maldev wannabe;<br />
+>> Security Research wannabe;<br />
+>> Open Source enjoyer;<br />
+>> Average Linux user;
+
+<br>
+<br>
+
 <p align="center">
     <img alt="My discord account: zeropio#2900" src="https://discord.c99.nl/widget/theme-1/398195882216128532.png">
 </p>
 
 <br>
-<hr>
-<br>
 
-<table border="0" align="center" width="45%">
- <tr>
-    <td><img align="left" src="/img/cyberpunk_w.gif"></td>
-    <td>
-      <b>
-        - 👉 CyberSec Student;<br />
-        - 🪲 Malware passionate;<br />
-        - ⚙️ Tool dev;<br />
-        - 📂 Open Source enjoyer;<br />
-        - 🐧 Average Linux user;
-      </b>
-    </td>
- </tr>
-</table>
 
