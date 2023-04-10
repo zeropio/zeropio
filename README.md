@@ -25,7 +25,7 @@
 <br />
 
 <div id="badges" align="center">
-<img src="/img/hacker.gif"/>
+<img src="/img/Circuits.gif"/>
 </div>
 <br>
 <br>
